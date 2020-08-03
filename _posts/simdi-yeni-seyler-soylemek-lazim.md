@@ -1,11 +1,11 @@
 ---
 title: "Şimdi yeni şeyler söylemek lazım"
+excerpt: 'Dünle beraber Gitti cancağızım Ne kadar söz varsa düne ait... Şimdi, Yeni şeyler söylemek lazım...'
 date: "2017-12-27"
 coverImage: "assets/images/pexels-photo-189349.jpeg"
 author:
   name: Ender
-  picture: '/assets/blog/authors/ender.jpeg'
-excerpt: 'Dünle beraber Gitti cancağızım Ne kadar söz varsa düne ait... Şimdi, Yeni şeyler söylemek lazım...'
+  picture: "/assets/blog/authors/ender.jpg"
 ogImage:
   url: "assets/images/pexels-photo-189349.jpeg"
 ---

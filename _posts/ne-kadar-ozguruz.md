@@ -1,13 +1,13 @@
 ---
 title: "Ne kadar özgürüz ?"
-date: "2016-11-16"
-coverImage: "assets/images/pexels-photo-54300.jpeg"
 excerpt: 'Dün nefret etmeme rağmen, sadece çocukların yalnızca kitaplarda gördüğü hayvanları tanıyabilmesi adına yakınlarım ile birlikte hayvanat bahçesini ziyaret ettik.
 
 Hayvanları ve doğayı tutku derecesinde seven birisi olarak, hepimizin temelde aynı kaynaktan, aynı kökten, aynı maddeden, aynı yıldızın tozlarından türemiş varlıklar olduğunun bilinci ile tüm canlıların eşit derecede var olma ve kendi fıtratlarının gereğince yaşama hakkı olduğuna inandığım için hayvanat bahçelerinden nefret ediyorum.'
+date: "2016-11-16"
+coverImage: "assets/images/pexels-photo-54300.jpeg"
 author:
   name: Ender
-  picture: "assets/blog/authors/ender.jpeg"
+  picture: "assets/blog/authors/ender.jpg"
 ogImage:
   url: "assets/images/pexels-photo-54300.jpeg"
 ---

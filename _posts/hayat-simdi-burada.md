@@ -1,13 +1,13 @@
 ---
 title: "Hayat: Şimdi. Burada."
-date: "2018-05-03"
-coverImage: "assets/images/blooming-blur-close-up-459059.jpg"
 excerpt: 'Hayatınızın ne eksik ne de fazla, tam da şu anda olduğu gibi olabilmesi için, herşeyin tek bir özden ortaya çıktığı "big bang"den bu yana 13.8 milyar yıl geçmesi gerekti.
 
 O zamandan bu yana sayısız değişik hal ve şekil alan maddeler, formlar ve olaylar dizisi en sonunda sizi ve algıladığınız dünyayı meydana getirdi.'
+date: "2018-05-03"
+coverImage: "assets/images/blooming-blur-close-up-459059.jpg"
 author:
   name: Ender
-  picture: "assets/blog/authors/ender.jpeg"
+  picture: "assets/blog/authors/ender.jpg"
 ogImage:
   url: "assets/images/blooming-blur-close-up-459059.jpg"
 ---

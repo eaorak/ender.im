@@ -1,15 +1,15 @@
 ---
 title: 'Youtube Kanalı Yayında!'
+excerpt: 'Blog ile ilgili olarak bir süredir aklımda olan bir projeyi sizlerle paylaşmaktan dolayı mutluluk duyuyorum:
+
+Aklımda Deli Sorular Youtube kanalı artık yayında.'
 date: '2018-02-01'
 coverImage: 'assets/images/pexels-photo-733853.jpeg'
 author:
   name: Ender
-  picture: '/assets/blog/authors/ender.jpeg'
+  picture: "/assets/blog/authors/ender.jpg"
 ogImage:
   url: 'assets/images/pexels-photo-733853.jpeg'
-excerpt: 'Blog ile ilgili olarak bir süredir aklımda olan bir projeyi sizlerle paylaşmaktan dolayı mutluluk duyuyorum:
-
-Aklımda Deli Sorular Youtube kanalı artık yayında.'
 ---
 
 Blog ile ilgili olarak bir süredir aklımda olan bir projeyi sizlerle paylaşmaktan dolayı mutluluk duyuyorum:

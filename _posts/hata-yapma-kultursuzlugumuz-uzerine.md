@@ -9,7 +9,7 @@ date: "2016-10-03"
 coverImage: "assets/images/x.jpg"
 author:
   name: Ender
-  picture: 'assets/blog/authors/ender.jpeg'
+  picture: "assets/blog/authors/ender.jpg"
 ogImage:
   url: "assets/images/x.jpg"
 ---
