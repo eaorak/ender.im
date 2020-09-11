@@ -1,17 +1,22 @@
-import Alert from './alert'
-import Footer from './footer'
-import Meta from './meta'
+import Footer from "./footer"
+import Meta from "./meta"
+import { initAnalytics } from "./googleAnalytics.js"
+import { useEffect } from "react"
 
 type Props = {
   preview?: boolean
   children: React.ReactNode
 }
 
-const Layout = ({ preview, children }: Props) => {
+const Layout = ({ children }: Props) => {
+  useEffect(() => {
+    initAnalytics()
+  })
+
   return (
     <>
       <Meta />
-      <div className="min-h-screen">
+      <div className='min-h-screen'>
         <main>{children}</main>
       </div>
       <Footer />
