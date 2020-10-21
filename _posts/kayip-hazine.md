@@ -10,7 +10,7 @@ ogImage:
   url: "assets/images/jouwen-wang-UChknR2z5EM-unsplash.jpg"
 ---
 
-Yaşım ilerledikçe, bilgeliğin daha çok bilmekten değil, tam tersine, bizzat deneyimlemediği herşeyin doğruluğunu sorgulamaktan, koşullanmalarından, aidiyetlerinden, kimliklerinden, sahte benliklerinden soyunmaktan geçtiğine daha çok ikna oldum.
+Yaşım ilerledikçe, bilgeliğin daha çok bilmekten değil, tam tersine, bizzat deneyimlemediği herşeyin doğruluğunu sorgulamaktan, koşullanmalarından, aidiyetlerinden, kimliklerinden, sahte benliklerinden soyunmaktan geçtiğine daha çok ikna oluyorum.
 
 Hepimiz saf, tertemiz, el değmemiş ve masum birer varlık olarak geliyoruz dünyaya; doğal kaynağından gelen saf bilincin temsilcileri olarak.
 
