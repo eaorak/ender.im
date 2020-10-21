@@ -1,6 +1,6 @@
 ---
 title: "Corona Günlükleri - I"
-excerpt: 'Corona günleri başladığından beri aslında bu konu ile ilgili çok fazla şey yazmak aklımdan geçti ise de bugüne kadar ertelemiş oldum. 
+excerpt: 'Corona günleri başladığından beri aslında bu konu ile ilgili çok fazla şey yazmak aklımdan geçti ise de bugüne kadar ertelemiş oluyorum. 
 
 Bir çoğumuzun bugüne kadar hiç deneyimlemediği çok ilginç bir süreçten geçiyoruz. Sosyal hayat, insan ilişkileri ve bu temel üzerine kurulan herşey ile birlikte devletler ve ekonomiler de artık eskisi gibi değil. "Normal" olarak nitelendirdiğimiz, ancak bir çok yönü ile normal olmadığı gerçeği ile daha bariz bir şekilde yüzleştiğimiz eski hayatımızın geri dönmesi en azından uzunca bir süre mümkün gibi görünmüyor halen.'
 date: "2020-08-13"
