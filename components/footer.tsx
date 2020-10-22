@@ -1,5 +1,10 @@
 import Container from "./container"
-import { EXAMPLE_PATH } from "../lib/constants"
+
+const SocialLink = ({ name, url }: { name: string; url: string }) => (
+  <a href={url} className='mx-3 font-bold hover:underline' target='_blank'>
+    {name}
+  </a>
+)
 
 const Footer = () => {
   return (
@@ -10,16 +15,9 @@ const Footer = () => {
             Meftun.co
           </h3>
           <div className='flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2'>
-            <a href={`https://www.instagram.com/meftunco/`} className='mx-3 font-bold hover:underline'>
-              Instagram
-            </a>
-            |
-            <a
-              href={`https://www.youtube.com/channel/UCq3wx4QmzkQP-hJRo5LOE6Q`}
-              className='mx-3 font-bold hover:underline'
-            >
-              Youtube
-            </a>
+            <SocialLink name='Instagram' url='https://www.instagram.com/meftunco/' /> |
+            <SocialLink name='Twitter' url='https://www.twitter.com/meftunco/' /> |
+            <SocialLink name='Youtube' url='https://www.youtube.com/channel/UCq3wx4QmzkQP-hJRo5LOE6Q' />
           </div>
         </div>
       </Container>
