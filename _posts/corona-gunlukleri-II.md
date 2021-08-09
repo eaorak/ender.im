@@ -1,8 +1,6 @@
 ---
 title: "Corona Günlükleri - II"
-excerpt: 'Corona süreci ile ilgili ilk yazımın üzerinden neredeyse tam olarak 1 sene geçmiş durumda. Bu süreçte neler yaşadığımız ile ilgili konuşmadan önce, son 3 gündür Covid nedeni ile evde yatmakta olduğumu belirtmem gerek. Oldukça yorgunum ama düne göre daha iyiyim, toparlıyorum sanırım. 
-
-Son bir sene sanırım hepimiz için zor geçti. 2020 sonlarında "normalleşme" sürecinin en önemli adımı olarak aşılar gündeme geldi öncelikle, şimdi de aşının çok da bilinçli olmadığını düşündüğüm bir süreç ile devletler tarafından bir baskı unsuru olarak kullanıldığı bir döneme tanıklık ediyoruz...'
+excerpt: "Corona süreci ile ilgili ilk yazımın üzerinden neredeyse tam olarak 1 sene geçmiş durumda. Bu süreçte neler yaşadığımız ile ilgili konuşmadan önce, son 3 gündür Covid nedeni ile evde istirahat etmekte olduğumu belirtmem gerek. Oldukça yorgunum ama düne göre daha iyiyim, toparlıyorum sanırım."
 date: "2021-08-09"
 coverImage: "assets/images/covidshots.jpg"
 author:
@@ -12,11 +10,11 @@ ogImage:
   url: "assets/images/covidshots.jpg"
 ---
 
-Corona süreci ile ilgili ilk yazımın üzerinden neredeyse tam olarak 1 sene geçmiş durumda. Bu süreçte neler yaşadığımız ile ilgili konuşmadan önce, son 3 gündür Covid nedeni ile evde yatmakta olduğumu belirtmem gerek. Oldukça yorgunum ama düne göre daha iyiyim, toparlıyorum sanırım.
+Corona süreci ile ilgili ilk yazımın üzerinden neredeyse tam olarak 1 sene geçmiş durumda. Bu süreçte neler yaşadığımız ile ilgili konuşmadan önce, son 3 gündür Covid nedeni ile evde istirahat etmekte olduğumu belirtmem gerek. Oldukça yorgunum ama düne göre daha iyiyim, toparlıyorum sanırım.
 
 Son bir sene sanırım hepimiz için zor geçti. 2020 sonlarında "normalleşme" sürecinin en önemli adımı olarak aşılar gündeme geldi öncelikle, şimdi de aşının çok da bilinçli olmadığını düşündüğüm bir süreç ile devletler tarafından bir baskı unsuru olarak kullanıldığı bir döneme tanıklık ediyoruz.
 
-Sıram gelmiş olmasına rağmen halen aşı olmadım, olmak konusunda da halen karar vermiş değilim doğrusu. Aslında aşı randevusunu aldıktan sonra bu konu ile ilgili beni rahatsız eden birşeyler olduğuna kanaat getirip konuyu biraz daha araştırma arzusu ile randevumu iptal ettim. Yaptığım araştırmalar ürkütücü bilgilerle karşılaştırdı beni, kimi çok temelli gelmese de örneğin mRNA teknolojisini bulan kişinin yaptığı gibi bilimsel dayanağı da olan bir çok konuşma da dinledim. Açıkçası ne aşı karşıtıyım ne de komplo teorilerini savunuyorum, sadece basit bir gerçekten dolayı aşıların halen güvenilir olmadığı kanaatindeyim, o da normalde bir aşının onaylanma sürecinin 10-15 sene sürüyor olması. Dolayısı ile bugün hiçkimse aşının bundan 1-5-10 sene sonra ne gibi yan etkileri olacağını bilmiyor.
+Sıram gelmiş olmasına rağmen halen aşı olmadım, olmak konusunda da halen net karar vermiş değilim doğrusu. Aslında aşı randevusunu aldıktan sonra bu konu ile ilgili beni rahatsız eden birşeyler olduğuna kanaat getirip konuyu biraz daha araştırma arzusu ile randevumu iptal ettim. Yaptığım araştırmalar ürkütücü bilgilerle karşılaştırdı beni, kimi çok temelli gelmese de örneğin mRNA teknolojisini bulan kişinin yaptığı gibi bilimsel dayanağı da olan bir çok konuşma da dinledim. Açıkçası ne aşı karşıtıyım ne de komplo teorilerini savunuyorum, sadece basit bir gerçekten dolayı aşıların halen güvenilir olmadığı kanaatindeyim, o da normalde bir aşının onaylanma sürecinin 10-15 sene sürüyor olması. Dolayısı ile bugün hiçkimse aşının bundan 1-5-10 sene sonra ne gibi yan etkileri olacağını bilmiyor.
 
 Bana ilginç gelen şey, bir olasılık dahi olsa, insanların sağlığını tehlikeye atma ihtimali bulunan bir çözümün insanlara dayatılabiliyor olması. Ve bu konuda ne dayatmayı yapan devletlerin, ne de aşıları bizzat üreten ilaç firmalarının hiçbir hukuki sorumluluğu yok. Bugünlerde aşı pasaportları, aşı olmama nedeni ile işten çıkarılmalar gibi haberleri duymaya başladık. Ve insanlık tarih boyunca binlerce kez örneği görüldüğü üzere bir kere daha bir kesimi ötekileştirmek ve dışlamak için yeni bir sebep bulmuş oldu.
 
