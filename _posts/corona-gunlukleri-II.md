@@ -1,8 +1,8 @@
 ---
 title: "Corona Günlükleri - II"
-excerpt: "Corona süreci ile ilgili ilk yazımın üzerinden neredeyse tam olarak 1 sene geçmiş durumda. Bu süreçte neler yaşadığımız ile ilgili konuşmadan önce, son 3 gündür Covid nedeni ile evde yatmakta olduğumu belirtmem gerek. Oldukça yorgunum ama düne göre daha iyiyim, toparlıyorum sanırım. 
+excerpt: 'Corona süreci ile ilgili ilk yazımın üzerinden neredeyse tam olarak 1 sene geçmiş durumda. Bu süreçte neler yaşadığımız ile ilgili konuşmadan önce, son 3 gündür Covid nedeni ile evde yatmakta olduğumu belirtmem gerek. Oldukça yorgunum ama düne göre daha iyiyim, toparlıyorum sanırım. 
 
-Son bir sene sanırım hepimiz için zor geçti. 2020 sonlarında "normalleşme" sürecinin en önemli adımı olarak aşılar gündeme geldi öncelikle, şimdi de aşının çok da bilinçli olmadığını düşündüğüm bir süreç ile devletler tarafından bir baskı unsuru olarak kullanıldığı bir döneme tanıklık ediyoruz..."
+Son bir sene sanırım hepimiz için zor geçti. 2020 sonlarında "normalleşme" sürecinin en önemli adımı olarak aşılar gündeme geldi öncelikle, şimdi de aşının çok da bilinçli olmadığını düşündüğüm bir süreç ile devletler tarafından bir baskı unsuru olarak kullanıldığı bir döneme tanıklık ediyoruz...'
 date: "2021-08-09"
 coverImage: "assets/images/covidshots.jpeg"
 author:
