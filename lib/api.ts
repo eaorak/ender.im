@@ -2,15 +2,19 @@ import fs from 'fs'
 import { join } from 'path'
 import matter from 'gray-matter'
 
-const postsDirectory = join(process.cwd(), '_posts')
+type Languages = 'tr' | 'en'
 
-export function getPostSlugs() {
-  return fs.readdirSync(postsDirectory)
+const postsDirectory: Record<string,any> = {}
+postsDirectory['tr'] = join(process.cwd(), '_posts/tr')
+postsDirectory['en'] = join(process.cwd(), '_posts/en')
+
+export function getPostSlugs(lang: Languages) {
+  return fs.readdirSync(postsDirectory[lang])
 }
 
-export function getPostBySlug(slug: string, fields: string[] = []) {
+export function getPostBySlug(slug: string, lang: Languages, fields: string[] = []) {
   const realSlug = slug.replace(/\.md$/, '')
-  const fullPath = join(postsDirectory, `${realSlug}.md`)
+  const fullPath = join(postsDirectory[lang], `${realSlug}.md`)
   const fileContents = fs.readFileSync(fullPath, 'utf8')
   const { data, content } = matter(fileContents)
 
@@ -37,10 +41,10 @@ export function getPostBySlug(slug: string, fields: string[] = []) {
   return items
 }
 
-export function getAllPosts(fields: string[] = []) {
-  const slugs = getPostSlugs()
+export function getAllPosts(lang: Languages, fields: string[] = []) {
+  const slugs = getPostSlugs(lang)
   const posts = slugs
-    .map((slug) => getPostBySlug(slug, fields))
+    .map((slug) => getPostBySlug(slug, lang, fields))
     // sort posts by date in descending order
     .sort((post1, post2) => (post1.date > post2.date ? -1 : 1))
   return posts
