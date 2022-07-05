@@ -6,12 +6,12 @@ excerpt: 'Yapılan araştırmalara göre doğuştan, içgüdüsel olarak sahip o
 
 Tüm bu korkuları nasıl ve neden benimsiyor ve öğreniyoruz ?'
 date: "2016-10-03"
-coverImage: "assets/images/x.jpg"
+coverImage: "assets/images/x.jpg.webp"
 author:
   name: Ender
-  picture: "assets/blog/authors/ender.jpg"
+  picture: "assets/blog/authors/ender.jpg.webp"
 ogImage:
-  url: "assets/images/x.jpg"
+  url: "assets/images/x.jpg.webp"
 ---
 
 Yapılan araştırmalara göre doğuştan, içgüdüsel olarak sahip olduğumuz yalnızca iki korkumuz var: yüksek ses ve düşme korkusu.

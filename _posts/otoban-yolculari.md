@@ -2,12 +2,12 @@
 title: "Otoban yolcuları"
 excerpt: 'Motosiklet kullananlar bilirler, bir motosiklet gezisi için seçilebilecek en kötü yollar otobanlardır. Zaten genellikle otobanlarda çok motosikletli görmezsiniz, gördükleriniz de muhtemelen bir sebepten mecbur oldukları için oradalardır. Aynı şekilde eğer çok fazla motosikletlinin bulunduğu bir yolda gidiyorsanız tali, virajlı ve güzel bir yolda olduğunuzdan emin olabilirsiniz. Zira motosiklet kullananlar doğa ile iç içe ve aynı zamanda virajlı yolları tercih ederler.'
 date: "2019-11-01"
-coverImage: "assets/images/markus-spiske-_v6mhdOK2g0-unsplash.jpg"
+coverImage: "assets/images/markus-spiske-_v6mhdOK2g0-unsplash.jpg.webp"
 author:
   name: Ender
-  picture: "assets/blog/authors/ender.jpg"
+  picture: "assets/blog/authors/ender.jpg.webp"
 ogImage:
-  url: "assets/images/markus-spiske-_v6mhdOK2g0-unsplash.jpg"
+  url: "assets/images/markus-spiske-_v6mhdOK2g0-unsplash.jpg.webp"
 ---
 
 Motosiklet kullananlar bilirler, bir motosiklet gezisi için seçilebilecek en kötü yollar otobanlardır. Zaten genellikle otobanlarda çok motosikletli görmezsiniz, gördükleriniz de muhtemelen bir sebepten mecbur oldukları için oradalardır. Aynı şekilde eğer çok fazla motosikletlinin bulunduğu bir yolda gidiyorsanız tali, virajlı ve güzel bir yolda olduğunuzdan emin olabilirsiniz. Zira motosiklet kullananlar doğa ile iç içe ve aynı zamanda virajlı yolları tercih ederler.

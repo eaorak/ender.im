@@ -2,12 +2,12 @@
 title: "Kapalı kapılar"
 excerpt: 'Düşünün ki yıllardır onlarca odası olan bir evde yaşıyorsunuz ve o evin yalnızca tek bir odasını kullanıyorsunuz, o eve geldiğinizden bu yana diğer odaların kapısını hiç açmamışsınız. Size en başta gösterilen bu odayı güvenli bulduğunuz için hep burada yaşıyorsunuz ve içten içe de diğer odalarda ne olduğu konusunda endişe duyuyor, o kapıları açmaktan korkuyorsunuz.'
 date: "2019-10-30"
-coverImage: "assets/images/dima-pechurin-JUbjYFvCv00-unsplash.jpg"
+coverImage: "assets/images/dima-pechurin-JUbjYFvCv00-unsplash.jpg.webp"
 author:
   name: Ender
-  picture: "assets/blog/authors/ender.jpg"
+  picture: "assets/blog/authors/ender.jpg.webp"
 ogImage:
-  url: "assets/images/dima-pechurin-JUbjYFvCv00-unsplash.jpg"
+  url: "assets/images/dima-pechurin-JUbjYFvCv00-unsplash.jpg.webp"
 ---
 
 Düşünün ki yıllardır onlarca odası olan bir evde yaşıyorsunuz ve o evin yalnızca tek bir odasını kullanıyorsunuz, o eve geldiğinizden bu yana diğer odaların kapısını hiç açmamışsınız. Size en başta gösterilen bu odayı güvenli bulduğunuz için hep burada yaşıyorsunuz ve içten içe de diğer odalarda ne olduğu konusunda endişe duyuyor, o kapıları açmaktan korkuyorsunuz.

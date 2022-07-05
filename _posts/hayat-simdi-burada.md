@@ -4,12 +4,12 @@ excerpt: 'Hayatınızın ne eksik ne de fazla, tam da şu anda olduğu gibi olab
 
 O zamandan bu yana sayısız değişik hal ve şekil alan maddeler, formlar ve olaylar dizisi en sonunda sizi ve algıladığınız dünyayı meydana getirdi.'
 date: "2018-05-03"
-coverImage: "assets/images/blooming-blur-close-up-459059.jpg"
+coverImage: "assets/images/blooming-blur-close-up-459059.jpg.webp"
 author:
   name: Ender
-  picture: "assets/blog/authors/ender.jpg"
+  picture: "assets/blog/authors/ender.jpg.webp"
 ogImage:
-  url: "assets/images/blooming-blur-close-up-459059.jpg"
+  url: "assets/images/blooming-blur-close-up-459059.jpg.webp"
 ---
 
 **Farkında mısınız?**

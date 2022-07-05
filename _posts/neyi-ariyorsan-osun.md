@@ -4,12 +4,12 @@ excerpt: 'Bugün sabah bir süredir bakımsız kalan bahçeyi süpürürken, kur
 
 Sonra düşündüm ki, insanın hakikat arayışı da böyledir.'
 date: "2020-09-09"
-coverImage: "assets/images/chen-yichun-Fd9784c2F2Y-unsplash.jpg"
+coverImage: "assets/images/chen-yichun-Fd9784c2F2Y-unsplash.jpg.webp"
 author:
   name: Ender
-  picture: "assets/blog/authors/ender.jpg"
+  picture: "assets/blog/authors/ender.jpg.webp"
 ogImage:
-  url: "assets/images/chen-yichun-Fd9784c2F2Y-unsplash.jpg"
+  url: "assets/images/chen-yichun-Fd9784c2F2Y-unsplash.jpg.webp"
 ---
 
 Bugün sabah bir süredir bakımsız kalan bahçeyi süpürürken, kurumuş yapraklar arasında demir bir cisim dikkatimi çekti, onu bir küpeye benzettim bir an. Yakın zamanda aldığım ve evde aradığım küpemi bulamadığım için olsa gerek, baktığım yerlerde küpe görmeyi arzu ediyordum sanırım içten içe. Sonra farkettim ki bir demir halkaymış yalnızca.

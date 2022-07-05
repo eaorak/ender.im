@@ -1,13 +1,13 @@
 ---
 title: "Şimdi yeni şeyler söylemek lazım"
-excerpt: 'Dünle beraber Gitti cancağızım Ne kadar söz varsa düne ait... Şimdi, Yeni şeyler söylemek lazım...'
+excerpt: "Dünle beraber Gitti cancağızım Ne kadar söz varsa düne ait... Şimdi, Yeni şeyler söylemek lazım..."
 date: "2017-12-27"
-coverImage: "assets/images/pexels-photo-189349.jpeg"
+coverImage: "assets/images/pexels-photo-189349jpg.webp"
 author:
   name: Ender
-  picture: "/assets/blog/authors/ender.jpg"
+  picture: "/assets/blog/authors/ender.jpg.webp"
 ogImage:
-  url: "assets/images/pexels-photo-189349.jpeg"
+  url: "assets/images/pexels-photo-189349jpg.webp"
 ---
 
 > Dünle beraber Gitti cancağızım Ne kadar söz varsa düne ait... Şimdi, Yeni şeyler söylemek lazım...
@@ -37,7 +37,7 @@ Bundan yıllar önce duyduğum, o zaman çok anlamlandıramasam da bana yine de 
 Ve aynı şekilde, dillerimize pelesenk olsa da, dilimize pelesenk olan ve kalbimizde yer etmemiş diğer tüm hakikatler, inançlar ve kavramlar gibi anlamını tamamen yitirmiş olan Yunus Emre'nin meşhur şiiri de...
 
 > İlim ilim bilmektir İlim kendin bilmektir Sen kendin bilmezsin Ya nice okumaktır
-> 
+>
 > Okumaktan murat ne Kişi Hak'kı bilmektir Çün okudun bilmezsin Ha bir kuru ekmektir
 
 İşte bu yüzden yazma arzusu tekrar belirdi içimde; benim gibi soruları olanlara belki bir yanıt, bir işaret ışığı olur ümidi ile, o bilgelikten payıma düşeni, kavrayabildiğim, deneyimleyebildiğim ve dilimin döndüğü ölçüde paylaşmak istiyorum.

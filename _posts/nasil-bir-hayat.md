@@ -6,12 +6,12 @@ Durup bu soruyu bir an olsun zihninizden geçirin. Hayatınızın 'nasıl'ı ile
 
 Nasıl bir hayat sürdüğümüzü neler belirliyor? Ailemiz, işimiz, evimiz, çevremiz, kariyerimiz, maddi varlıklarımız, yaşadığımız yer... Bunlardan mı ibaret hayatımızın nasıl olduğu?"
 date: "2021-09-07"
-coverImage: "assets/images/life.jpg"
+coverImage: "assets/images/life.jpg.webp"
 author:
   name: Ender
-  picture: "assets/blog/authors/ender.jpg"
+  picture: "assets/blog/authors/ender.jpg.webp"
 ogImage:
-  url: "assets/images/life.jpg"
+  url: "assets/images/life.jpg.webp"
 ---
 
 Nasıl bir hayat sürüyoruz?

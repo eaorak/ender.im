@@ -6,12 +6,12 @@ Bu sözü geçenlerde The Road to Dharma isimli bir belgesel fragmanında görd�
 
 Zira hayatta yaptığımız seçimleri derinlemesine sorgularsak altında çoğunlukla yatan hissin korku olduğunu ve güvenlik arayışının da bu korkunun makul ve mantıklı olmak kılıfına bürünmüş hali olduğunu görebiliriz."
 date: "2022-03-31"
-coverImage: "assets/images/free.jpg"
+coverImage: "assets/images/free.jpg.webp"
 author:
   name: Ender
-  picture: "assets/blog/authors/ender.jpg"
+  picture: "assets/blog/authors/ender.jpg.webp"
 ogImage:
-  url: "assets/images/free.jpg"
+  url: "assets/images/free.jpg.webp"
 ---
 
 "You either be free, or die trying to be safe".

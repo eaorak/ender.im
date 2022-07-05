@@ -2,12 +2,12 @@
 title: "Corona Günlükleri - II"
 excerpt: "Corona süreci ile ilgili ilk yazımın üzerinden neredeyse tam olarak 1 sene geçmiş durumda. Bu süreçte neler yaşadığımız ile ilgili konuşmadan önce, son 3 gündür Covid nedeni ile evde istirahat etmekte olduğumu belirtmem gerek. Oldukça yorgunum ama düne göre daha iyiyim, toparlıyorum sanırım."
 date: "2021-08-09"
-coverImage: "assets/images/covidshots.jpg"
+coverImage: "assets/images/covidshots.jpg.webp"
 author:
   name: Ender
-  picture: "assets/blog/authors/ender.jpg"
+  picture: "assets/blog/authors/ender.jpg.webp"
 ogImage:
-  url: "assets/images/covidshots.jpg"
+  url: "assets/images/covidshots.jpg.webp"
 ---
 
 Corona süreci ile ilgili ilk yazımın üzerinden neredeyse tam olarak 1 sene geçmiş durumda. Bu süreçte neler yaşadığımız ile ilgili konuşmadan önce, son 3 gündür Covid nedeni ile evde istirahat etmekte olduğumu belirtmem gerek. Oldukça yorgunum ama düne göre daha iyiyim, toparlıyorum sanırım.

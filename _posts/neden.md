@@ -6,12 +6,12 @@ excerpt: '"Neden ?"
 
 Yanıtlarından çok soruları olan insanları severim ben. Herkesin her konuda “fikir” sahibi olduğu, her soruya verilecek yanıtının bulunduğu güzide ülkemizde bulması zor olan türden insanları. Hayatı sorgulamanın hiç bir şartta vazgeçilmemesi gereken temel bir yeti olduğunu bilen insanları.'
 date: "2016-10-03"
-coverImage: "assets/images/x-1.jpg"
+coverImage: "assets/images/x-1.jpg.webp"
 author:
   name: Ender
-  picture: "assets/blog/authors/ender.jpg"
+  picture: "assets/blog/authors/ender.jpg.webp"
 ogImage:
-  url: "assets/images/x-1.jpg"
+  url: "assets/images/x-1.jpg.webp"
 ---
 
 "Neden ?"

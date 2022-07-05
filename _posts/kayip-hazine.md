@@ -2,12 +2,12 @@
 title: "Kayıp Hazine"
 excerpt: "Yaşım ilerledikçe, bilgeliğin daha çok bilmekten değil, tam tersine, bizzat deneyimlemediği herşeyin doğruluğunu sorgulamaktan, koşullanmalarından, aidiyetlerinden, kimliklerinden, sahte benliklerinden soyunmaktan geçtiğine daha çok ikna oldum."
 date: "2020-10-21"
-coverImage: "assets/images/jouwen-wang-UChknR2z5EM-unsplash.jpg"
+coverImage: "assets/images/jouwen-wang-UChknR2z5EM-unsplash.jpg.webp"
 author:
   name: Ender
-  picture: "assets/blog/authors/ender.jpg"
+  picture: "assets/blog/authors/ender.jpg.webp"
 ogImage:
-  url: "assets/images/jouwen-wang-UChknR2z5EM-unsplash.jpg"
+  url: "assets/images/jouwen-wang-UChknR2z5EM-unsplash.jpg.webp"
 ---
 
 Yaşım ilerledikçe, bilgeliğin daha çok bilmekten değil, tam tersine, bizzat deneyimlemediği herşeyin doğruluğunu sorgulamaktan, koşullanmalarından, aidiyetlerinden, kimliklerinden, sahte benliklerinden soyunmaktan geçtiğine daha çok ikna oluyorum.

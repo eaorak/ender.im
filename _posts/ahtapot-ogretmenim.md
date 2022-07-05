@@ -4,12 +4,12 @@ excerpt: "Bir dostumun tavsiyesi üzerine Ahtapot Öğretmenim (My Octopus Teach
 
 Muhteşemdi. Çok yerde duygulandım, hem, normalde yalnızca bir sofrada meze ya da bir balık tezgahında meraklı bakışlarla hayatımıza konuk olabilecek bir canlının aslında bize öğretebilecek ne kadar çok şey olduğunu göstermesi bakımından..."
 date: "2020-12-23"
-coverImage: "assets/images/octopus-teacher-netflix.jpg"
+coverImage: "assets/images/octopus-teacher-netflix.jpg.webp"
 author:
   name: Ender
-  picture: "assets/blog/authors/ender.jpg"
+  picture: "assets/blog/authors/ender.jpg.webp.webp"
 ogImage:
-  url: "assets/images/octopus-teacher-netflix.jpg"
+  url: "assets/images/octopus-teacher-netflix.jpg.webp.webp"
 ---
 
 Bir dostumun tavsiyesi üzerine Ahtapot Öğretmenim (My Octopus Teacher) filmini izledim. 
