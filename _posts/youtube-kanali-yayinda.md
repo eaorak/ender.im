@@ -4,12 +4,12 @@ excerpt: 'Blog ile ilgili olarak bir süredir aklımda olan bir projeyi sizlerl
 
 Aklımda Deli Sorular Youtube kanalı artık yayında.'
 date: '2018-02-01'
-coverImage: 'assets/images/pexels-photo-733853.jpg.webp'
+coverImage: 'assets/images/youtube.jpg.webp'
 author:
   name: Ender
   picture: "/assets/blog/authors/ender.jpg.webp"
 ogImage:
-  url: 'assets/images/pexels-photo-733853.jpg.webp'
+  url: 'assets/images/youtube.jpg.webp'
 ---
 
 Blog ile ilgili olarak bir süredir aklımda olan bir projeyi sizlerle paylaşmaktan dolayı mutluluk duyuyorum:
