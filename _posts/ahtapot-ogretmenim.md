@@ -7,7 +7,7 @@ date: "2020-12-23"
 coverImage: "assets/images/ahtapotogretmenim.jpg.webp"
 author:
   name: Ender
-  picture: "assets/blog/authors/ender.jpg.webp.webp"
+  picture: "assets/blog/authors/ender.jpg.webp"
 ogImage:
   url: "assets/images/ahtapotogretmenim.jpg.webp"
 ---
