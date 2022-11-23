@@ -1,21 +1,21 @@
-import Link from "next/link";
+import Image from 'next/image'
+import Link from 'next/link'
 
 const Header = () => {
   return (
-    <h2 className="text-2xl md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight mb-8 mt-8">
-      <Link href="/">
+    <h2 className='text-3xl md:text-4xl font-bold tracking-tighter leading-tight md:pr-8 mb-20 mt-10'>
+      <Link href='/'>
         <img
-          src="/assets/images/m.png"
-          alt="meftun"
-          width={342}
-          height={171}
-          style={{ display: "inline-block", maxHeight: 50, margin: 0, padding: 0 }}
-          className="cursor-pointer"
+          src='/assets/images/m.png'
+          width={176}
+          height={85}
+          alt='meftun'
+          style={{ display: 'inline-block', cursor: 'pointer' }}
         />
       </Link>
-      .
+      .{' '}
     </h2>
-  );
-};
+  )
+}
 
-export default Header;
+export default Header
