@@ -7,7 +7,7 @@ date: '2018-02-01'
 coverImage: 'assets/images/youtube.jpg.webp'
 author:
   name: Ender
-  picture: "/assets/blog/authors/ender.jpg.webp"
+  picture: "assets/blog/authors/ender.jpg.webp"
 ogImage:
   url: 'assets/images/youtube.jpg.webp'
 ---
