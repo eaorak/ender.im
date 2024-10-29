@@ -1,7 +1,7 @@
-# [Meftun](https://meftun.co)
+# [Ender.im](https://ender.im)
 
-Gözü başka bir şey görmeyen tutkulu âşık. Hayran olan.
+Eve dönüş.
 
-https://meftun.co
+https://ender.im
 
 by Ender

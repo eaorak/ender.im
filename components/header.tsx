@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import Link from 'next/link'
 
 const Header = () => {
@@ -9,7 +8,7 @@ const Header = () => {
           src='/assets/images/m.png'
           width={176}
           height={85}
-          alt='meftun'
+          alt='ender.im'
           style={{ display: 'inline-block', cursor: 'pointer' }}
         />
       </Link>
